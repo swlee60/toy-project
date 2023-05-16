@@ -15,17 +15,11 @@ const sampleBusinesses = [
     id: '1',
     businessId: '1',
     name: 'Business 1',
-    description: 'Business 1 description',
-    ownerName: 'Business 1 owner',
-    ownerEmail: 'lee@naver.com',
   },
   {
     id: '2',
     businessId: '2',
     name: 'Business 2',
-    description: 'Business 2 description',
-    ownerName: 'Business 2 owner',
-    ownerEmail: '',
   },
 ]
 
