@@ -13,14 +13,19 @@ interface Business {
 const sampleBusinesses: Business [] = [
   {
     id: '1',
-    businessId: 1,
+    businessId: '1',
     name: 'Business 1',
+    description: 'Business 1 description',
+    ownerName: 'Owner 1',
+    ownerEmail: 'aa@naver.com',
   },
   {
     id: '2',
     businessId: '2',
     name: 'Business 2',
-    test: 'hahaha',
+    description: 'Business 2 description',
+    ownerName: 'Owner 2',
+    ownerEmail: 'cc@naver.com',
   },
 ]
 
