@@ -13,7 +13,7 @@ interface Business {
 const sampleBusinesses: Business [] = [
   {
     id: '1',
-    businessId: '1',
+
     name: 'Business 1',
   },
   {
