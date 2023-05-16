@@ -10,7 +10,7 @@ interface Business {
   ownerEmail: string
 }
 
-const sampleBusinesses = [
+const sampleBusinesses: Business [] = [
   {
     id: '1',
     businessId: '1',
